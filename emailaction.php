@@ -12,7 +12,7 @@ if (isset($_POST['submitButton']) || !isset($mailFrom) || trim($mailFrom) == '')
 } else {
 
     $mailFrom = ($_POST['emailAddress']);
-    $mailTo = "m.chikhi@outlook.com";
+    $mailTo = "sami@loyaloak.nl";
 
     $subject = "Contact aanvraag LoyalOak";
     $headers = "BCC: " . $mailTo . "\r\n";
