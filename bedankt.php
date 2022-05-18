@@ -52,7 +52,7 @@
                             <i class="fas text-primary mb-2">&#128077;</i>
                             <h4 class="text-uppercase m-0">Bedankt!</h4>
                             <hr class="my-4 mx-auto" />
-                            <div class="small text-black-50">Bedankt voor het contact op nemen met <b>Loyal Oak</b>. We gaan de verzoek verwerken en nemen zo spoedig mogelijk contact met u op.</div><br />
+                            <div class="small text-black-50">Bedankt voor het contact op nemen met <b>Loyal Oak</b>. We gaan het verzoek verwerken en nemen zo spoedig mogelijk contact met u op.</div><br />
                             <button class="btn btn-primary" onclick="window.location.href='index.php';">Terug naar de homepagina.</button>
                         </div>
                     </div>
